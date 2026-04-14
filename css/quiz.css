@@ -22,35 +22,27 @@
     float: left;
 }
 
-h2 {
-    color: black;
-    text-align: center;
-    margin-bottom: 0px;
-    margin-top: 70px;
-}
-
-p {
-    color: black;
-    text-align: center;
-    margin-bottom: 0px;
-    margin-top: 120px;
-}
-
-p {
-    font-size: larger;
-}
-
 footer {
     background-color: #333;
     color: white;
+    position: sticky;
     text-align: center;
-    padding: 5px;
-    position: fixed;
+    padding: 20px;
+
     bottom: 0;
     width: 100%;
 }
 
-img {
-    display: center;
+p {
+
+    text-align: center;
+
 }
 
+h2 {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
